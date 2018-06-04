@@ -1,0 +1,3 @@
+[submodule "obspy/splitwavepy"]
+	path = obspy/splitwavepy
+	url = git@github.com:JackWalpole/splitwavepy.git
